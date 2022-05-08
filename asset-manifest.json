@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Books-context-api/static/css/main.b469a776.css",
+    "main.js": "/Books-context-api/static/js/main.a9414707.js",
+    "index.html": "/Books-context-api/index.html",
+    "main.b469a776.css.map": "/Books-context-api/static/css/main.b469a776.css.map",
+    "main.a9414707.js.map": "/Books-context-api/static/js/main.a9414707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b469a776.css",
+    "static/js/main.a9414707.js"
+  ]
+}
